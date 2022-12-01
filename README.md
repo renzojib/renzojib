@@ -1,8 +1,8 @@
 <p align="center">
-	# Hi, I am Ebuka Ojiba
+	<h1> Hi, I am Ebuka Ojiba<h1>
 </p>
 <p align="center">
-	###A Full Stack Developer based in Cleveland
+	<h3>A Full Stack Developer based in Cleveland<h3>
 </p>
 
 - 🔭 I’m currently working on ConVid with [Tess Loggins](tesslggns716) and [Maureen Bobo]()

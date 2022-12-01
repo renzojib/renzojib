@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I am Ebuka Ojiba<h1>
-###A Full Stack Developer based in Cleveland
+### A Full Stack Developer based in Cleveland
 
 - 🔭 I’m currently working on ConVid with [Tess Loggins](tesslggns716) and [Maureen Bobo]()
 - 🌱 I’m currently learning Phaser.js
@@ -9,9 +9,9 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ebuka-ojiba-874886a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="60" height="20"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80" height="20"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=renzojib&style=flat-square&color=blue" alt="Profile visit counter" width="60" height="20"/>
+  <img src="https://komarev.com/ghpvc/?username=renzojib&style=flat-square&color=blue" alt="Profile visit counter" width="80" height="20"/>
 </div>
 
 ---

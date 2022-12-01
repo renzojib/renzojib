@@ -2,7 +2,7 @@
 
 ### A Full Stack Developer based in Cleveland
 
-- 🔭 I’m currently working on ConVid with [Tess Loggins](tesslggns716) and [Maureen Bobo]()
+- 🔭 I’m currently working on ConVid with <a href="https://github.com/tesslggns716">Tess Loggins</a> and <a href="https://github.com/rebeccaschild">Maureen Bobo</a>
 - 🌱 I’m currently learning Phaser.js
 - 💬 Ask me about HTML/CSS, Js, Python, MySQL
 - 📫 How to reach me: ojibaebuka@gmail.com

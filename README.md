@@ -1,6 +1,6 @@
-<h1 align="center"> Hi, I am Ebuka Ojiba<h1>
+<h1 align="center"> Hi, I am Lawrence Ojiba<h1>
 
-### A Full Stack Developer based in Cleveland
+### A Full Stack Developer based in Tampa, Florida
 
 - 🔭 I’m currently working on ConVid with <a href="https://github.com/tesslggns716">Tess Loggins</a> and <a href="https://github.com/rebeccaschild">Maureen Bobo</a>
 - 🌱 I’m currently learning Phaser.js

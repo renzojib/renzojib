@@ -2,7 +2,7 @@
 
 ### A Full Stack Developer based in Cleveland, Ohio
 
-- 🔭 I’m currently working on ConVid with <a href="https://github.com/tesslggns716">Tess Loggins</a> and <a href="https://github.com/rebeccaschild">Maureen Bobo</a>
+- 🔭 I’m working getting started on an expense tracker project.
 - 🌱 I’m currently learning Typescript, Angular and Ionic.
 - 💬 Ask me about HTML/CSS, Js, C#, Python, MySQL, Docker
 - 📫 How to reach me: ojibaebuka@gmail.com
